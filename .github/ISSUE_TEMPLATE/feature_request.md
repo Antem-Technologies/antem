@@ -13,7 +13,7 @@ A clear and concise description of what the problem is. For example, I'm always 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
 
-Optional **Describe alternatives you've considered**
+**Describe alternatives you've considered** (optional)
 A clear and concise description of any alternative solutions or features you've considered.
 
 **Additional context**
